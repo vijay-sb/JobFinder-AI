@@ -229,7 +229,7 @@ const JobFinderApp = () => {
             { id: 'results', label: 'Job Results', icon: Briefcase },
             { id: 'analysis', label: 'Resume Analysis', icon: Target },
             { id: 'coverLetter', label: 'Cover Letter', icon: MessageSquare }
-          ].map(({ id, label }) => (
+          ].map(({ id, label, icon: Icon }) => (
             <button
               key={id}
               onClick={() => setActiveTab(id)}
