@@ -1,0 +1,11 @@
+flask
+flask-cors
+python-dotenv
+
+# LangChain + LangGraph + tools
+langchain
+langchain-community
+langchain-core
+langgraph
+langchain-google-genai
+typing-extensions
