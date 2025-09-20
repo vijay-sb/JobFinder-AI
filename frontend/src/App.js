@@ -5,7 +5,7 @@ import {
   MapPin, ExternalLink, Play, Square, SkipForward, Award, TrendingUp 
 } from 'lucide-react';
 
-const API_BASE_URL = 'http://localhost:5001/api';
+const API_BASE_URL = process.env.REACT_APP_API_BASE_URL;
 
 // Utility Components
 const ErrorMessage = ({ message }) => (
