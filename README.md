@@ -1,7 +1,6 @@
-# JobFinder-AI
-Gen-AI hackathon submission repo
 
 # JobFinder-AI: Intelligent Career Development Platform
+Gen-AI hackathon submission repo
 
 ![JobFinder AI](https://img.shields.io/badge/JobFinder--AI-Powered%20by%20Google%20Cloud%20AI-blue?style=for-the-badge&logo=google-cloud)
 
